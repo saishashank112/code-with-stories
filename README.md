@@ -1,13 +1,13 @@
 # 📚 Syntax Verse Stories – Code Meets Reality
 
-Welcome to the **official GitHub repository** of the [Syntax Verse Stories](https://youtube.com/@syntaxversestories) YouTube channel by **Shashi**!  
+Welcome to the **official GitHub repository** of the [Syntax Verse Stories](https://youtube.com/@SVSe121) YouTube channel.  
 Here, we **learn coding the way tech companies use it** — through real-world problems, storytelling, and hands-on projects. Whether you're learning **Python**, diving into **ReactJS**, or staying updated on the tech world, this is your home. 🧠💻
 
 ---
 
 ## 📺 Watch the Journey
 
-🛸 Follow along on YouTube: [Syntax Verse Stories on YouTube](https://youtube.com/@syntaxversestories)
+🛸 Follow along on YouTube: [Syntax Verse Stories on YouTube](https://youtube.com/@SVSe121)
 
 ---
 
@@ -95,4 +95,4 @@ Or just open an issue to suggest a new real-world problem to solve 💡
 ---
 
 **⭐ Star this repo** if you learned something!  
-**🔔 Subscribe on YouTube** for more coding sagas: [@syntaxversestories](https://youtube.com/@syntaxversestories)
+**🔔 Subscribe on YouTube** for more coding sagas: [@syntaxversestories](https://youtube.com/@SVSe121)
