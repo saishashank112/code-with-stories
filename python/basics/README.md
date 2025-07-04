@@ -29,9 +29,7 @@ This PDF guide breaks down **10 essential Python topics**, each with:
 
 ---
 
-## 📥 Download the PDF
-
-> 📌 **[Click here to view or download the guide →](./PYTHON%20BASICS%20EXPLAINED%20WITH%20TECH%20SCENARIOS.pdf)**
+zzz
 
 This is great for:
 - Students
